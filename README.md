@@ -14,4 +14,4 @@ A visual novel where you start with a paperclip and trade your way up to a mansi
 ## Developers
 
 - [Bloxodav](https://github.com/Bloxodav)
-- 
+- [Makserious44](https://github.com/Makserious44)
